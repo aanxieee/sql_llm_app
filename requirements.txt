@@ -4,3 +4,17 @@ sqlalchemy>=1.4
 psycopg2-binary>=2.9
 python-dotenv>=1.0.0
 tqdm>=4.0
+streamlit
+python-dotenv
+sqlalchemy
+pandas
+
+google-generativeai>=0.8.3
+langchain
+langchain-core
+langchain-community
+langchain-google-genai>=1.0.7
+
+faiss-cpu
+numpy
+pydantic
